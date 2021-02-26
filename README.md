@@ -3,5 +3,5 @@
 Member names:
 Juanpablo Flores
 Anupama Sharma
-Brandon
+Brandon Chung
 Luke LaScala
